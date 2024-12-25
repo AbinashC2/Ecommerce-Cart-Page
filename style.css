@@ -28,6 +28,7 @@ h1, h2 {
     margin-bottom: 30px;
 }
 
+
 .product{
     background-color: #333333;
     padding: 10px;
@@ -73,4 +74,14 @@ h1, h2 {
 /* Hidden Class */
 .hidden {
     display: none;
+}
+
+
+.delete-btn{
+    background-color: rgb(234, 48, 48);
+    color: white;
+    border-radius: 5x;
+    padding: 2px;
+    margin-left: 5px;
+    
 }
